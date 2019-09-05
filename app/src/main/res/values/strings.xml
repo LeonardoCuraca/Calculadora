@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="sistema_de_evaluaci_n">Sistema de Evaluación</string>
+    <string name="pr_cticas_te_ricas">Prácticas Teóricas</string>
+    <string name="prom">Prom:</string>
+    <string name="pr_ctica_1">Práctica 1</string>
+    <string name="pr_ctica_2">Práctica 2</string>
+    <string name="pr_cticas_laboratorios">Prácticas Laboratorios</string>
+    <string name="pr_ctica_3">Práctica 3</string>
+    <string name="pr_ctica_4">Práctica 4</string>
+    <string name="promedio">Promedio:</string>
+    <string name="resultado">Resultado</string>
+    <string name="calcular">CALCULAR</string>
+</resources>
